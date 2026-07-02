@@ -84,12 +84,3 @@ Built by a team of 3 students from Easwari Engineering College, Chennai as part 
 **Program:** Bachelor of Engineering, Robotics and Automation  
 **Period:** August 2022 – March 2023  
 **Competition:** ARC'23, Hindustan University, Chennai
-
----
-
-## 👤 Author
-
-**Gunal Karthikeyan Saravanan**  
-BE in Robotics and Automation — Easwari Engineering College  
-MS in Artificial Intelligence — Yeshiva University  
-[LinkedIn](https://linkedin.com/in/gunalkarthikeyans) | [GitHub](https://github.com/GunalKarthikeyanS)
